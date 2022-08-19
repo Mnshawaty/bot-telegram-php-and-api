@@ -4,4 +4,3 @@
 
 <a href="https://t.me/Yes_everything_bot">💥here</a>
 
-<p>mouad dadda</p>
