@@ -2,9 +2,9 @@
 require("./app.php");
 
 $server_name = "localhost";
-$user = "id19314834_botevretin";
-$pass = "zL/26oD8*EhuqkHW";
-$dbname = "id19314834_books";
+$user ="";
+$pass = "";
+$dbname = "";
 
 $connect  = new mysqli($server_name, $user, $pass, $dbname);
 
